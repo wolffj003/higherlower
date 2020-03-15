@@ -1,0 +1,17 @@
+<resources>
+
+    <string name="app_name">Higher Lower</string>
+
+    <string name="lastThrowIndicator">Last Throw: %d</string>
+
+    <string name="btnLower">Lower</string>
+    <string name="btnEqual">Equal</string>
+    <string name="btnHigher">Higher</string>
+
+    <string name="win">You WON!</string>
+    <string name="lose">You LOST!</string>
+
+    <string name="question">Guess if the next throw is going to be lower, equal or higher.</string>
+    <string name="diceDescription">Last result of dice face</string>
+
+</resources>
